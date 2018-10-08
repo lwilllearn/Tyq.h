@@ -23,7 +23,6 @@ SOFTWARE.
 
 email:11186192@qq.com / TYQ11186192@163.com
 
-phone:+86 18870038080
 */
 
 #include<cstdlib>
