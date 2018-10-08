@@ -20,7 +20,7 @@
 
 ---------------------
 
-# Endlish:
+# English:
 
 ## What it is
 
