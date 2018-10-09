@@ -38,4 +38,4 @@ Remember to use "-std=c++11"!
 
 ---------------------
 
-Copyright TYQ,All rights served.
+Copyright 谭意青 ;
